@@ -1,0 +1,11 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "default": true,
+      "javadoc": "https://docs.oracle.com/en/java/javase/17/docs/api",
+      "name": "JavaSE-17",
+      "path": "C:/HHS/Tools/Java/jdk-17.0.10",
+      "sources": "C:/HHS/Tools/Java/jdk-17.0.10/lib/src.zip"
+    }
+  ]
+}
