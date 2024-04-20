@@ -24,7 +24,7 @@ public class CompositeApp {
         dinerMenu.add(new MenuItem("BLT", "pork meet", false, 2.99));
         dinerMenu.add(new MenuItem("soup", "today soup", false, 3.29));
         dinerMenu.add(dessertMenu);
-        dinerMenu.add(new MenuItem("apple pie", "ice apple pie", true, 1.59));
+        dessertMenu.add(new MenuItem("apple pie", "ice apple pie", true, 1.59));
         
         cafeMenu.add(new MenuItem("Veggie burger set", "Veggie burger", true, 3.99));
         cafeMenu.add(new MenuItem("Today Soup", "Soup with salad", false, 3.79));
